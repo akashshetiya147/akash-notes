@@ -1,0 +1,175 @@
+{
+  "sem1": {
+    "mes": {
+      "unit1": {
+        "notes": [
+          {
+            "title": "Unit 1 AI Notes",
+            "url": "https://drive.google.com/file/d/1iRNdMJc4iGg3dslEcCslXmoCWd5TpImO/view?usp=sharing",
+            "tags": [
+              "ai",
+              "full-notes",
+              "unit1"
+            ]
+          },
+          {
+            "title": "Unit 1 Short Notes",
+            "url": "https://drive.google.com/file/d/1Oxrl6qR76cyQ8FXzlmZIhyOyOyVCcPKR/view?usp=sharing",
+            "tags": [
+              "ai",
+              "short-notes",
+              "unit1"
+            ]
+          }
+        ]
+      },
+      "unit2": {
+        "notes": [
+          {
+            "title": "Unit 2 Short Notes",
+            "url": "https://drive.google.com/file/d/1pXRAgRj2AeqUAu4L20edS6zssJrOZWUn/view?usp=sharing",
+            "tags": [
+              "ai",
+              "short-notes",
+              "unit2"
+            ]
+          }
+        ]
+      },
+      "unit3": {
+        "notes": [
+          {
+            "title": "Unit 3 Short Notes",
+            "url": "https://drive.google.com/file/d/1U669DIZg_2vIIOvNYZYE1CwkbjL5BlOO/view?usp=sharing",
+            "tags": [
+              "ai",
+              "short-notes",
+              "unit3"
+            ]
+          }
+        ]
+      },
+      "unit4": {
+        "notes": [
+          {
+            "title": "Unit 4 Short Notes",
+            "url": "https://drive.google.com/file/d/1mpPS_c1XM8sKOjKW5L_EMN2-tO3DP53M/view?usp=sharing",
+            "tags": [
+              "ai",
+              "short-notes",
+              "unit4"
+            ]
+          }
+        ]
+      }
+    },
+    "chemistry": {
+      "unit1": {
+        "notes": [
+          {
+            "title": "Unit 1 Short Notes",
+            "url": "https://drive.google.com/file/d/1hWvBu_4c_1q-UbI2vzSALGElFiW8Iqrd/view?usp=sharing",
+            "tags": [
+              "chemistry",
+              "short-notes",
+              "unit1"
+            ]
+          }
+        ]
+      },
+      "unit2": {
+        "notes": [
+          {
+            "title": "Unit 2 Short Notes",
+            "url": "https://drive.google.com/file/d/1oPG7-PMla4DRYOjZO5mnCniTTEXPBsF-/view?usp=sharing",
+            "tags": [
+              "chemistry",
+              "short-notes",
+              "unit2"
+            ]
+          }
+        ]
+      },
+      "unit3": {
+        "notes": [
+          {
+            "title": "Unit 3 Short Notes",
+            "url": "https://drive.google.com/file/d/1WwWQdRfCAjVrTSVZqyRc1AefCLdmtS8L/view?usp=sharing",
+            "tags": [
+              "chemistry",
+              "short-notes",
+              "unit3"
+            ]
+          }
+        ]
+      },
+      "unit4": {
+        "notes": [
+          {
+            "title": "Unit 4 Short Notes",
+            "url": "https://drive.google.com/file/d/1pIxjjnOMN7Y2WdEsOx1d_7wqaj2ZrhYR/view?usp=sharing",
+            "tags": [
+              "chemistry",
+              "short-notes",
+              "unit4"
+            ]
+          }
+        ]
+      }
+    },
+    "physics": {
+      "unit1": {
+        "notes": [
+          {
+            "title": "Unit 1 Short Notes",
+            "url": "https://drive.google.com/file/d/14mcqXPhkiomuusMSEQjGXIg8rs0Kfohx/view?usp=sharing",
+            "tags": [
+              "physics",
+              "short-notes",
+              "unit1"
+            ]
+          }
+        ]
+      },
+      "unit2": {
+        "notes": [
+          {
+            "title": "Unit 2 Short Notes",
+            "url": "https://drive.google.com/file/d/1o29K-VyTvcr8pVckwqrJGk5Nm-9Cmhm4/view?usp=sharing",
+            "tags": [
+              "physics",
+              "short-notes",
+              "unit2"
+            ]
+          }
+        ]
+      },
+      "unit3": {
+        "notes": [
+          {
+            "title": "Unit 3 Short Notes",
+            "url": "https://drive.google.com/file/d/1NGYzz3-_RCCXiP0VxE-MfOwja3SFRI1s/view?usp=sharing",
+            "tags": [
+              "physics",
+              "short-notes",
+              "unit3"
+            ]
+          }
+        ]
+      },
+      "unit4": {
+        "notes": [
+          {
+            "title": "Unit 4 Short Notes",
+            "url": "https://drive.google.com/file/d/1tBy_UOQ7NmyqbeK5V8fR_aOSaBbmP8R7/view?usp=sharing",
+            "tags": [
+              "physics",
+              "short-notes",
+              "unit4"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
