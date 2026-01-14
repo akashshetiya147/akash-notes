@@ -3,72 +3,132 @@
     "CHEMISTRY CYCLE": {
       "EPD": {
         "UNIT 1": {
-          "NOTES": {
-            "FILE": "https://drive.google.com/file/d/17HSXs1d4wKcFCi8oe9dkzE_cGtDgbd1N/view?usp=sharing"
-          },
-          "SLIDES": {
-            "FILE": "https://drive.google.com/file/d/1qmVNctahfV-y5L-gcpc6kQn8fFEQhA-J/view?usp=sharing"
-          },
-          "QUESTION BANKS": {
-            "FILE": "https://drive.google.com/file/d/1pL8gjtjp2atZV1WPN1JnJFLwdG06qQd1/view?usp=sharing"
-          },
-          "ASSIGNMENT QNS": {
-            "FILE": "https://drive.google.com/file/d/1GVOYCDqnes1tNd94m_sJSfzxWen3Lr6N/view?usp=sharing"
-          },
-          "QUESTION ANSWERS": {
-            "FILE": "https://drive.google.com/file/d/1S0L0yJzCXiS9EnvXuQjIgI7HgwnENrtX/view?usp=sharing"
-          }
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": "https://drive.google.com/file/d/17HSXs1d4wKcFCi8oe9dkzE_cGtDgbd1N/view?usp=sharing"
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": "https://drive.google.com/file/d/1qmVNctahfV-y5L-gcpc6kQn8fFEQhA-J/view?usp=sharing"
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": "https://drive.google.com/file/d/1pL8gjtjp2atZV1WPN1JnJFLwdG06qQd1/view?usp=sharing"
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": "https://drive.google.com/file/d/1GVOYCDqnes1tNd94m_sJSfzxWen3Lr6N/view?usp=sharing"
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": "https://drive.google.com/file/d/1S0L0yJzCXiS9EnvXuQjIgI7HgwnENrtX/view?usp=sharing"
+            }
+          ]
         },
         "UNIT 2": {
-          "NOTES": {
-            "FILE": "https://drive.google.com/file/d/1Pa840UtfVki5aDDiFNvXferCaa6TeL--/view?usp=sharing"
-          },
-          "SLIDES": {
-            "FILE": "https://drive.google.com/file/d/1BmXL4b4gK05AtP1dm-aMPPPMfT1CH76w/view?usp=sharing"
-          },
-          "QUESTION BANKS": {
-            "FILE": "https://drive.google.com/file/d/1gLvWGKQ5X-ZllQqxfjmQB68b6dQbEPWk/view?usp=sharing"
-          },
-          "ASSIGNMENT QNS": {
-            "FILE": "https://drive.google.com/file/d/185KSFjtbeXlD8o-NInOG-bQS3aMFiHm3/view?usp=sharing"
-          },
-          "QUESTION ANSWERS": {
-            "FILE": "https://drive.google.com/file/d/1Pa840UtfVki5aDDiFNvXferCaa6TeL--/view?usp=sharing"
-          }
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": "https://drive.google.com/file/d/1Pa840UtfVki5aDDiFNvXferCaa6TeL--/view?usp=sharing"
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": "https://drive.google.com/file/d/1BmXL4b4gK05AtP1dm-aMPPPMfT1CH76w/view?usp=sharing"
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": "https://drive.google.com/file/d/1gLvWGKQ5X-ZllQqxfjmQB68b6dQbEPWk/view?usp=sharing"
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": "https://drive.google.com/file/d/185KSFjtbeXlD8o-NInOG-bQS3aMFiHm3/view?usp=sharing"
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": "https://drive.google.com/file/d/1Pa840UtfVki5aDDiFNvXferCaa6TeL--/view?usp=sharing"
+            }
+          ]
         },
         "UNIT 3": {
-          "NOTES": {
-            "FILE": "https://drive.google.com/file/d/1276l2e9slI6N55g24fAkh2WYR2XjEHaD/view?usp=sharing"
-          },
-          "SLIDES": {
-            "FILE": "https://drive.google.com/file/d/16m6z1gZ4H74BIHLYjxUnGVfNSD18NfVO/view?usp=sharing"
-          },
-          "QUESTION BANKS": {
-            "FILE": "https://drive.google.com/file/d/1p4hdnNCgzeXief7O7XuXPN7gibGG4NhC/view?usp=sharing"
-          },
-          "ASSIGNMENT QNS": {
-            "FILE": "https://drive.google.com/file/d/1MsW1ibwSAtCWhCPrEVoT-eyeSEIg6yQM/view?usp=sharing"
-          },
-          "QUESTION ANSWERS": {
-            "FILE": "https://drive.google.com/file/d/1kv3thTWqQaBPkqiK6IfXq8jK_w5iKDTl/view?usp=sharing"
-          }
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": "https://drive.google.com/file/d/1276l2e9slI6N55g24fAkh2WYR2XjEHaD/view?usp=sharing"
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": "https://drive.google.com/file/d/16m6z1gZ4H74BIHLYjxUnGVfNSD18NfVO/view?usp=sharing"
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": "https://drive.google.com/file/d/1p4hdnNCgzeXief7O7XuXPN7gibGG4NhC/view?usp=sharing"
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": "https://drive.google.com/file/d/1MsW1ibwSAtCWhCPrEVoT-eyeSEIg6yQM/view?usp=sharing"
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": "https://drive.google.com/file/d/1kv3thTWqQaBPkqiK6IfXq8jK_w5iKDTl/view?usp=sharing"
+            }
+          ]
         },
         "UNIT 4": {
-          "NOTES": {
-            "FILE": "https://drive.google.com/file/d/16V1-v8E8OXcO7JcI8vUXwmQhcixxjHGf/view?usp=sharing"
-          },
-          "SLIDES": {
-            "FILE": "https://drive.google.com/file/d/1S9VtXTqrOmGZZiTh2Ds0FgknY8QIj6Xr/view?usp=sharing"
-          },
-          "QUESTION BANKS": {
-            "FILE": "https://drive.google.com/file/d/1kbWiwnoNeLTsl7zpbpDAd4STEOiycnZs/view?usp=sharing"
-          },
-          "ASSIGNMENT QNS": {
-            "FILE": "https://drive.google.com/file/d/1lws6z-9h3YBO7kAdFrnMSMEtxLn2590q/view?usp=sharing"
-          },
-          "QUESTION ANSWERS": {
-            "FILE": "https://drive.google.com/file/d/1e1YpC3uezg87tYac6xeyXa4HrlslYH2k/view?usp=sharing"
-          }
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": "https://drive.google.com/file/d/16V1-v8E8OXcO7JcI8vUXwmQhcixxjHGf/view?usp=sharing"
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": "https://drive.google.com/file/d/1S9VtXTqrOmGZZiTh2Ds0FgknY8QIj6Xr/view?usp=sharing"
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": "https://drive.google.com/file/d/1kbWiwnoNeLTsl7zpbpDAd4STEOiycnZs/view?usp=sharing"
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": "https://drive.google.com/file/d/1lws6z-9h3YBO7kAdFrnMSMEtxLn2590q/view?usp=sharing"
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": "https://drive.google.com/file/d/1e1YpC3uezg87tYac6xeyXa4HrlslYH2k/view?usp=sharing"
+            }
+          ]
         }
       },
       "CONSTITUTION": {},
