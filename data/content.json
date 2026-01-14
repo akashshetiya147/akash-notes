@@ -1,175 +1,91 @@
 {
-  "sem1": {
-    "mes": {
-      "unit1": {
-        "notes": [
-          {
-            "title": "Unit 1 AI Notes",
-            "url": "https://drive.google.com/file/d/1iRNdMJc4iGg3dslEcCslXmoCWd5TpImO/view?usp=sharing",
-            "tags": [
-              "ai",
-              "full-notes",
-              "unit1"
-            ]
+  "1ST YEAR": {
+    "CHEMISTRY CYCLE": {
+      "EPD": {
+        "UNIT 1": {
+          "NOTES": {
+            "FILE": "https://drive.google.com/file/d/17HSXs1d4wKcFCi8oe9dkzE_cGtDgbd1N/view?usp=sharing"
           },
-          {
-            "title": "Unit 1 Short Notes",
-            "url": "https://drive.google.com/file/d/1Oxrl6qR76cyQ8FXzlmZIhyOyOyVCcPKR/view?usp=sharing",
-            "tags": [
-              "ai",
-              "short-notes",
-              "unit1"
-            ]
+          "SLIDES": {
+            "FILE": "https://drive.google.com/file/d/1qmVNctahfV-y5L-gcpc6kQn8fFEQhA-J/view?usp=sharing"
+          },
+          "QUESTION BANKS": {
+            "FILE": "https://drive.google.com/file/d/1pL8gjtjp2atZV1WPN1JnJFLwdG06qQd1/view?usp=sharing"
+          },
+          "ASSIGNMENT QNS": {
+            "FILE": "https://drive.google.com/file/d/1GVOYCDqnes1tNd94m_sJSfzxWen3Lr6N/view?usp=sharing"
+          },
+          "QUESTION ANSWERS": {
+            "FILE": "https://drive.google.com/file/d/1S0L0yJzCXiS9EnvXuQjIgI7HgwnENrtX/view?usp=sharing"
           }
-        ]
+        },
+        "UNIT 2": {
+          "NOTES": {
+            "FILE": "https://drive.google.com/file/d/1Pa840UtfVki5aDDiFNvXferCaa6TeL--/view?usp=sharing"
+          },
+          "SLIDES": {
+            "FILE": "https://drive.google.com/file/d/1BmXL4b4gK05AtP1dm-aMPPPMfT1CH76w/view?usp=sharing"
+          },
+          "QUESTION BANKS": {
+            "FILE": "https://drive.google.com/file/d/1gLvWGKQ5X-ZllQqxfjmQB68b6dQbEPWk/view?usp=sharing"
+          },
+          "ASSIGNMENT QNS": {
+            "FILE": "https://drive.google.com/file/d/185KSFjtbeXlD8o-NInOG-bQS3aMFiHm3/view?usp=sharing"
+          },
+          "QUESTION ANSWERS": {
+            "FILE": "https://drive.google.com/file/d/1Pa840UtfVki5aDDiFNvXferCaa6TeL--/view?usp=sharing"
+          }
+        },
+        "UNIT 3": {
+          "NOTES": {
+            "FILE": "https://drive.google.com/file/d/1276l2e9slI6N55g24fAkh2WYR2XjEHaD/view?usp=sharing"
+          },
+          "SLIDES": {
+            "FILE": "https://drive.google.com/file/d/16m6z1gZ4H74BIHLYjxUnGVfNSD18NfVO/view?usp=sharing"
+          },
+          "QUESTION BANKS": {
+            "FILE": "https://drive.google.com/file/d/1p4hdnNCgzeXief7O7XuXPN7gibGG4NhC/view?usp=sharing"
+          },
+          "ASSIGNMENT QNS": {
+            "FILE": "https://drive.google.com/file/d/1MsW1ibwSAtCWhCPrEVoT-eyeSEIg6yQM/view?usp=sharing"
+          },
+          "QUESTION ANSWERS": {
+            "FILE": "https://drive.google.com/file/d/1kv3thTWqQaBPkqiK6IfXq8jK_w5iKDTl/view?usp=sharing"
+          }
+        },
+        "UNIT 4": {
+          "NOTES": {
+            "FILE": "https://drive.google.com/file/d/16V1-v8E8OXcO7JcI8vUXwmQhcixxjHGf/view?usp=sharing"
+          },
+          "SLIDES": {
+            "FILE": "https://drive.google.com/file/d/1S9VtXTqrOmGZZiTh2Ds0FgknY8QIj6Xr/view?usp=sharing"
+          },
+          "QUESTION BANKS": {
+            "FILE": "https://drive.google.com/file/d/1kbWiwnoNeLTsl7zpbpDAd4STEOiycnZs/view?usp=sharing"
+          },
+          "ASSIGNMENT QNS": {
+            "FILE": "https://drive.google.com/file/d/1lws6z-9h3YBO7kAdFrnMSMEtxLn2590q/view?usp=sharing"
+          },
+          "QUESTION ANSWERS": {
+            "FILE": "https://drive.google.com/file/d/1e1YpC3uezg87tYac6xeyXa4HrlslYH2k/view?usp=sharing"
+          }
+        }
       },
-      "unit2": {
-        "notes": [
-          {
-            "title": "Unit 2 Short Notes",
-            "url": "https://drive.google.com/file/d/1pXRAgRj2AeqUAu4L20edS6zssJrOZWUn/view?usp=sharing",
-            "tags": [
-              "ai",
-              "short-notes",
-              "unit2"
-            ]
-          }
-        ]
-      },
-      "unit3": {
-        "notes": [
-          {
-            "title": "Unit 3 Short Notes",
-            "url": "https://drive.google.com/file/d/1U669DIZg_2vIIOvNYZYE1CwkbjL5BlOO/view?usp=sharing",
-            "tags": [
-              "ai",
-              "short-notes",
-              "unit3"
-            ]
-          }
-        ]
-      },
-      "unit4": {
-        "notes": [
-          {
-            "title": "Unit 4 Short Notes",
-            "url": "https://drive.google.com/file/d/1mpPS_c1XM8sKOjKW5L_EMN2-tO3DP53M/view?usp=sharing",
-            "tags": [
-              "ai",
-              "short-notes",
-              "unit4"
-            ]
-          }
-        ]
-      }
+      "CONSTITUTION": {},
+      "CHEMISTRY": {},
+      "MECHANICS STATICS": {}
     },
-    "chemistry": {
-      "unit1": {
-        "notes": [
-          {
-            "title": "Unit 1 Short Notes",
-            "url": "https://drive.google.com/file/d/1hWvBu_4c_1q-UbI2vzSALGElFiW8Iqrd/view?usp=sharing",
-            "tags": [
-              "chemistry",
-              "short-notes",
-              "unit1"
-            ]
-          }
-        ]
-      },
-      "unit2": {
-        "notes": [
-          {
-            "title": "Unit 2 Short Notes",
-            "url": "https://drive.google.com/file/d/1oPG7-PMla4DRYOjZO5mnCniTTEXPBsF-/view?usp=sharing",
-            "tags": [
-              "chemistry",
-              "short-notes",
-              "unit2"
-            ]
-          }
-        ]
-      },
-      "unit3": {
-        "notes": [
-          {
-            "title": "Unit 3 Short Notes",
-            "url": "https://drive.google.com/file/d/1WwWQdRfCAjVrTSVZqyRc1AefCLdmtS8L/view?usp=sharing",
-            "tags": [
-              "chemistry",
-              "short-notes",
-              "unit3"
-            ]
-          }
-        ]
-      },
-      "unit4": {
-        "notes": [
-          {
-            "title": "Unit 4 Short Notes",
-            "url": "https://drive.google.com/file/d/1pIxjjnOMN7Y2WdEsOx1d_7wqaj2ZrhYR/view?usp=sharing",
-            "tags": [
-              "chemistry",
-              "short-notes",
-              "unit4"
-            ]
-          }
-        ]
-      }
+    "PHYSICS CYCLE": {
+      "MECHANICAL": {},
+      "EEE": {},
+      "PHYSICS": {},
+      "EVS": {}
     },
-    "physics": {
-      "unit1": {
-        "notes": [
-          {
-            "title": "Unit 1 Short Notes",
-            "url": "https://drive.google.com/file/d/14mcqXPhkiomuusMSEQjGXIg8rs0Kfohx/view?usp=sharing",
-            "tags": [
-              "physics",
-              "short-notes",
-              "unit1"
-            ]
-          }
-        ]
-      },
-      "unit2": {
-        "notes": [
-          {
-            "title": "Unit 2 Short Notes",
-            "url": "https://drive.google.com/file/d/1o29K-VyTvcr8pVckwqrJGk5Nm-9Cmhm4/view?usp=sharing",
-            "tags": [
-              "physics",
-              "short-notes",
-              "unit2"
-            ]
-          }
-        ]
-      },
-      "unit3": {
-        "notes": [
-          {
-            "title": "Unit 3 Short Notes",
-            "url": "https://drive.google.com/file/d/1NGYzz3-_RCCXiP0VxE-MfOwja3SFRI1s/view?usp=sharing",
-            "tags": [
-              "physics",
-              "short-notes",
-              "unit3"
-            ]
-          }
-        ]
-      },
-      "unit4": {
-        "notes": [
-          {
-            "title": "Unit 4 Short Notes",
-            "url": "https://drive.google.com/file/d/1tBy_UOQ7NmyqbeK5V8fR_aOSaBbmP8R7/view?usp=sharing",
-            "tags": [
-              "physics",
-              "short-notes",
-              "unit4"
-            ]
-          }
-        ]
-      }
+    "COMMON SUBJECTS": {
+      "MATHS 1": {},
+      "PYTHON": {},
+      "C PROGRAMMING": {},
+      "MATHS 2": {}
     }
   }
 }
