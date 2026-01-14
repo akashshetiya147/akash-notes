@@ -9,8 +9,9 @@ import { Note, SECTION_ORDER } from "@/types";
 function getData(content: any, slug: string[]) {
     let current = content;
     for (const segment of slug) {
-        if (current && current[segment]) {
-            current = current[segment];
+        const decodedSegment = decodeURIComponent(segment);
+        if (current && current[decodedSegment]) {
+            current = current[decodedSegment];
         } else {
             return null;
         }
