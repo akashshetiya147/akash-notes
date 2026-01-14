@@ -158,7 +158,7 @@ function SemesterItem({ semester, content, pathname, noteParam, closeSidebar }: 
             </div>
             {isOpen && (
                 <div className="ml-4 pl-2 border-l border-border">
-                    {Object.keys(content).map(subject => (
+                    {Object.keys(content).filter(subject => content[subject] && typeof content[subject] === 'object' && Object.keys(content[subject]).length > 0).map(subject => (
                         <SubjectItem
                             key={subject}
                             semester={semester}
@@ -203,7 +203,7 @@ function SubjectItem({ semester, subject, content, pathname, noteParam, closeSid
             </div>
             {isOpen && (
                 <div className="ml-3 pl-2 border-l border-border">
-                    {Object.keys(content).map(unit => (
+                    {Object.keys(content).filter(unit => content[unit] && typeof content[unit] === 'object' && Object.keys(content[unit]).length > 0).map(unit => (
                         <UnitItem
                             key={unit}
                             semester={semester}
@@ -249,7 +249,7 @@ function UnitItem({ semester, subject, unit, content, pathname, noteParam, close
             </div>
             {isOpen && (
                 <div className="ml-3 pl-2 border-l border-border">
-                    {Object.keys(content).map(section => (
+                    {Object.keys(content).filter(section => Array.isArray(content[section]) && content[section].length > 0).map(section => (
                         <SectionItem
                             key={section}
                             semester={semester}
@@ -294,7 +294,7 @@ function SectionItem({ semester, subject, unit, section, notes, pathname, notePa
                     {section}
                 </Link>
             </div>
-            {isOpen && (
+            {isOpen && Array.isArray(notes) && notes.length > 0 && (
                 <div className="ml-3 pl-2 border-l border-border">
                     {notes.map((note, idx) => {
                         const notePath = `${sectionPath}?note=${idx}`;

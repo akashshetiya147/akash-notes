@@ -26,8 +26,11 @@ export function GlobalSearch({ content }: GlobalSearchProps) {
 
         // Structure: Sem -> Subject -> Unit -> Section -> Notes
         Object.entries(content).forEach(([sem, subjects]) => {
+            if (!subjects || typeof subjects !== 'object') return;
             Object.entries(subjects).forEach(([subject, units]) => {
+                if (!units || typeof units !== 'object' || Object.keys(units).length === 0) return;
                 Object.entries(units).forEach(([unit, sections]) => {
+                    if (!sections || typeof sections !== 'object' || Object.keys(sections).length === 0) return;
                     // Unit match
                     results.push({
                         title: unit,
@@ -37,6 +40,7 @@ export function GlobalSearch({ content }: GlobalSearchProps) {
                     });
 
                     Object.entries(sections).forEach(([section, notes]) => {
+                        if (!Array.isArray(notes)) return;
                         notes.forEach((note, idx) => {
                             // Note match
                             results.push({
