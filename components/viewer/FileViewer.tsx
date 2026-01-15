@@ -99,7 +99,7 @@ export function FileViewer({ url, title }: FileViewerProps) {
                 <div
                     className="absolute top-0 right-0 bottom-0 z-10"
                     style={{
-                        width: '70px',
+                        width: '100px',
                         backgroundColor: '#ffffff',
                         pointerEvents: 'all'
                     }}
