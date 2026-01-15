@@ -104,6 +104,16 @@ export function FileViewer({ url, title }: FileViewerProps) {
                         pointerEvents: 'all'
                     }}
                 />
+                {/* Cover Google Drive zoom button in bottom-left */}
+                <div
+                    className="absolute bottom-0 left-0 z-10"
+                    style={{
+                        width: '60px',
+                        height: '60px',
+                        backgroundColor: '#ffffff',
+                        pointerEvents: 'all'
+                    }}
+                />
             </div>
         </div>
     );
