@@ -1,6 +1,6 @@
 "use client";
 
-import { Maximize2, Minimize2 } from "lucide-react";
+import { Maximize2, Minimize2, Download } from "lucide-react";
 import { useState, useRef, useEffect } from "react";
 
 interface FileViewerProps {
@@ -67,13 +67,24 @@ export function FileViewer({ url, title }: FileViewerProps) {
                 style={{ backgroundColor: 'var(--muted)' }}
             >
                 <span className="text-sm font-medium truncate pr-2">{title}</span>
-                <button
-                    onClick={toggleFullscreen}
-                    className="p-1.5 rounded hover:bg-accent transition-colors flex-shrink-0"
-                    title={isFullscreen ? "Exit Fullscreen" : "Fullscreen"}
-                >
-                    {isFullscreen ? <Minimize2 className="w-4 h-4" /> : <Maximize2 className="w-4 h-4" />}
-                </button>
+                <div className="flex items-center gap-1">
+                    <a
+                        href={`https://drive.google.com/uc?export=download&id=${id}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="p-1.5 rounded hover:bg-accent transition-colors flex-shrink-0"
+                        title="Download"
+                    >
+                        <Download className="w-4 h-4" />
+                    </a>
+                    <button
+                        onClick={toggleFullscreen}
+                        className="p-1.5 rounded hover:bg-accent transition-colors flex-shrink-0"
+                        title={isFullscreen ? "Exit Fullscreen" : "Fullscreen"}
+                    >
+                        {isFullscreen ? <Minimize2 className="w-4 h-4" /> : <Maximize2 className="w-4 h-4" />}
+                    </button>
+                </div>
             </div>
 
             {/* Viewer */}
