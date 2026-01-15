@@ -100,16 +100,6 @@ export function FileViewer({ url, title }: FileViewerProps) {
                     }}
                 />
 
-                {/* Block bottom toolbar overlay - covers Google Drive's page nav and zoom controls */}
-                <div
-                    className="absolute bottom-0 left-0 right-0 z-20"
-                    style={{
-                        height: '56px',
-                        backgroundColor: '#1a1a1a',
-                        pointerEvents: 'all'
-                    }}
-                />
-
                 <iframe
                     src={embedUrl}
                     className="absolute inset-0 w-full h-full border-none"
