@@ -104,6 +104,18 @@ export function FileViewer({ url, title }: FileViewerProps) {
                         pointerEvents: 'none'
                     }}
                 />
+                {/* Cover pop-out button at top-right corner */}
+                <div
+                    className="absolute z-20"
+                    style={{
+                        top: '0px',
+                        right: '20px',
+                        width: '50px',
+                        height: '50px',
+                        backgroundColor: '#525252',
+                        pointerEvents: 'all'
+                    }}
+                />
             </div>
         </div>
     );
