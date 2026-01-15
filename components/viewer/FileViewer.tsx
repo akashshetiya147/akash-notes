@@ -95,24 +95,12 @@ export function FileViewer({ url, title }: FileViewerProps) {
                     allowFullScreen
                     loading="lazy"
                 />
-                {/* Cover dark Google Drive UI element on the right */}
+                {/* Cover Google Drive UI elements on the right (scrollbar + pop-out button) */}
                 <div
                     className="absolute top-0 right-0 bottom-0 z-10"
                     style={{
-                        width: '20px',
+                        width: '70px',
                         backgroundColor: '#ffffff',
-                        pointerEvents: 'none'
-                    }}
-                />
-                {/* Cover pop-out button at top-right corner */}
-                <div
-                    className="absolute z-20"
-                    style={{
-                        top: '0px',
-                        right: '20px',
-                        width: '50px',
-                        height: '50px',
-                        backgroundColor: '#525252',
                         pointerEvents: 'all'
                     }}
                 />
