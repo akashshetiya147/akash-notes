@@ -73,7 +73,7 @@ export function FileViewer({ url, title }: FileViewerProps) {
                     {/* Share Button */}
                     <button
                         onClick={async () => {
-                            const shareUrl = `https://drive.google.com/file/d/${id}/view`;
+                            const shareUrl = window.location.href;
                             if (navigator.share) {
                                 try {
                                     await navigator.share({
