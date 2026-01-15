@@ -1,6 +1,6 @@
 "use client";
 
-import { Maximize2, Minimize2, Download, Printer, Share2, ExternalLink } from "lucide-react";
+import { Maximize2, Minimize2, Download, Share2 } from "lucide-react";
 import { useState, useRef, useEffect } from "react";
 
 interface FileViewerProps {
@@ -68,17 +68,7 @@ export function FileViewer({ url, title }: FileViewerProps) {
             >
                 <span className="text-sm font-medium truncate pr-2">{title}</span>
                 <div className="flex items-center gap-1">
-                    {/* Print Button */}
-                    <button
-                        onClick={() => {
-                            const printUrl = `https://drive.google.com/file/d/${id}/view`;
-                            window.open(printUrl, '_blank');
-                        }}
-                        className="p-1.5 rounded hover:bg-accent transition-colors flex-shrink-0"
-                        title="Print"
-                    >
-                        <Printer className="w-4 h-4" />
-                    </button>
+
 
                     {/* Share Button */}
                     <button
@@ -105,16 +95,7 @@ export function FileViewer({ url, title }: FileViewerProps) {
                         <Share2 className="w-4 h-4" />
                     </button>
 
-                    {/* Open in New Tab */}
-                    <a
-                        href={`https://drive.google.com/file/d/${id}/view`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="p-1.5 rounded hover:bg-accent transition-colors flex-shrink-0"
-                        title="Open in New Tab"
-                    >
-                        <ExternalLink className="w-4 h-4" />
-                    </a>
+
 
                     {/* Download Button */}
                     <a
