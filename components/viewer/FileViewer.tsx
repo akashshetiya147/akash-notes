@@ -90,7 +90,10 @@ export function FileViewer({ url, title }: FileViewerProps) {
             {/* Viewer */}
             <div className="flex-1 relative" style={{ backgroundColor: 'var(--background)' }}>
                 {/* Block pop-out button overlay */}
-                <div className="absolute top-0 right-0 w-14 h-14 z-10" />
+                <div
+                    className="absolute top-0 right-0 w-16 h-16 z-10"
+                    style={{ backgroundColor: 'var(--background)' }}
+                />
 
                 <iframe
                     src={embedUrl}
