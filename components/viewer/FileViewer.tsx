@@ -95,6 +95,15 @@ export function FileViewer({ url, title }: FileViewerProps) {
                     allowFullScreen
                     loading="lazy"
                 />
+                {/* Cover dark Google Drive UI element on the right */}
+                <div
+                    className="absolute top-0 right-0 bottom-0 z-10"
+                    style={{
+                        width: '20px',
+                        backgroundColor: '#ffffff',
+                        pointerEvents: 'none'
+                    }}
+                />
             </div>
         </div>
     );
