@@ -89,10 +89,15 @@ export function FileViewer({ url, title }: FileViewerProps) {
 
             {/* Viewer */}
             <div className="flex-1 relative" style={{ backgroundColor: 'var(--background)' }}>
-                {/* Block pop-out button overlay */}
+                {/* Block pop-out button overlay - covers Google Drive's pop-out icon */}
                 <div
-                    className="absolute top-0 right-0 w-16 h-16 z-10"
-                    style={{ backgroundColor: 'var(--background)' }}
+                    className="absolute top-0 right-0 z-20"
+                    style={{
+                        width: '80px',
+                        height: '80px',
+                        backgroundColor: '#1a1a1a',
+                        pointerEvents: 'all'
+                    }}
                 />
 
                 <iframe
