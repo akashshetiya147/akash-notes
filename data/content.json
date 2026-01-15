@@ -137,21 +137,1506 @@
           }
         ]
       },
-      "CONSTITUTION": {},
-      "CHEMISTRY": {},
-      "MECHANICS STATICS": {}
+      "CONSTITUTION": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      },
+      "CHEMISTRY": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      },
+      "MECHANICS STATICS": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      }
     },
     "PHYSICS CYCLE": {
-      "MECHANICAL": {},
-      "EEE": {},
-      "PHYSICS": {},
-      "EVS": {}
+      "MECHANICAL": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      },
+      "EEE": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      },
+      "PHYSICS": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      },
+      "EVS": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      }
     },
     "COMMON SUBJECTS": {
-      "MATHS 1": {},
-      "PYTHON": {},
-      "C PROGRAMMING": {},
-      "MATHS 2": {}
+      "MATHS 1": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      },
+      "PYTHON": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      },
+      "C PROGRAMMING": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      },
+      "MATHS 2": {
+        "UNIT 1": {
+          "NOTES": [
+            {
+              "title": "Unit 1 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 1 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 1 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 1 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 1 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 2": {
+          "NOTES": [
+            {
+              "title": "Unit 2 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 2 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 2 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 2 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 2 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 3": {
+          "NOTES": [
+            {
+              "title": "Unit 3 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 3 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 3 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 3 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 3 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "UNIT 4": {
+          "NOTES": [
+            {
+              "title": "Unit 4 Notes",
+              "url": ""
+            }
+          ],
+          "SLIDES": [
+            {
+              "title": "Unit 4 Slides",
+              "url": ""
+            }
+          ],
+          "QUESTION BANKS": [
+            {
+              "title": "Unit 4 Question Bank",
+              "url": ""
+            }
+          ],
+          "ASSIGNMENT QNS": [
+            {
+              "title": "Unit 4 Assignment Questions",
+              "url": ""
+            }
+          ],
+          "QUESTION ANSWERS": [
+            {
+              "title": "Unit 4 Question Answers",
+              "url": ""
+            }
+          ]
+        },
+        "QUESTION PAPERS": [
+          {
+            "title": "ESA PAPERS",
+            "url": ""
+          }
+        ]
+      }
     }
   }
 }
